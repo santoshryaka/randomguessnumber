@@ -5,7 +5,7 @@ guess=0
 print("welcome to the number guessing game")
 print("guess the number between 1 to 100")
 
-while guess !=secret:
+while guess!=secret:
     guess=int(input("enter your guess:"))
     if guess<secret:
         print("too low! try again")
@@ -14,4 +14,4 @@ while guess !=secret:
     else:
         print("con*gratulations! you guessed the number.") 
         break
-input("press enter to exit")
+print("Thankyou for playing this game")
