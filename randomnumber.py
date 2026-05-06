@@ -1,11 +1,13 @@
 import random
 
+#Generates a random number
 secret= random.randint(1, 100)
 guess=0
 print("welcome to the number guessing game")
 print("guess the number between 1 to 100")
 
-while guess!=secret:
+#loops run until correct guess
+while guess != secret:
     guess=int(input("enter your guess:"))
     if guess<secret:
         print("too low! try again")
