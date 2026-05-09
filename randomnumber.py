@@ -1,3 +1,4 @@
+#import require model for project
 import random
 
 #Generates a random number
