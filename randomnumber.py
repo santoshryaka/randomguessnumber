@@ -1,4 +1,3 @@
-#import require things
 import random
 
 #Generates a random number
