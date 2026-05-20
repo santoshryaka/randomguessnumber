@@ -1,3 +1,4 @@
+#import require module
 import random
 
 #Generates a random number
