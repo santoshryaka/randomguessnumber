@@ -7,8 +7,8 @@
 -user input.
 
 ## How to Run 
--Make sure your python is installed 
--if you don't know go to terminal simply type : python --version 
--Write a program and save the file
--open terminal 
--run the program 
+-Make sure your python is installed.
+-if you don't know go to terminal simply type : python --version
+-Write a program and save the file.
+-open terminal.
+-run the program.
