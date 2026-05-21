@@ -6,7 +6,7 @@
 -Random number generation
 -user input
 
-### How to Run 
+## How to Run 
 -Make sure your python is installed 
 -if you don't know go to terminal simply type : python --version 
 -Write a program and save the file
