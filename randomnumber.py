@@ -1,4 +1,4 @@
-#import require module
+#import require model
 import random
 
 #Generates a random number
@@ -17,4 +17,4 @@ while guess != secret:
     else:
         print("con*gratulations! you guessed the number.") 
         break
-print("__Thankyou for playing this game__")
+print("___Thankyou for playing this game___")
