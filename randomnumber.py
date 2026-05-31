@@ -1,4 +1,4 @@
-#import require model
+#import require library
 import random
 
 #Generates a random number
