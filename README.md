@@ -1,6 +1,5 @@
 # Randomguess number
--Number Guessing Game.
--A simple python programming where the guess number from 1 to 100.
+-Number Guessing Game. A simple python programming where the guess number from 1 to 100.
 
 ## Features 
 -Random number generation.
