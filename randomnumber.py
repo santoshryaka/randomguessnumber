@@ -1,4 +1,4 @@
-#import required library
+#import required library for project
 import random
 
 #Generates a random number
