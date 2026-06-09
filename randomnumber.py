@@ -1,4 +1,4 @@
-#import required library for project
+#import required library 
 import random
 
 #Generates a random number
@@ -17,4 +17,4 @@ while guess != secret:
     else:
         print("con*gratulations! you guessed the number.") 
         break
-print("__Thankyou for playing this game__")
+print("____Thankyou for playing this game____")
