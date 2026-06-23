@@ -11,3 +11,4 @@
 -Write a program and save the file
 -open terminal
 -run the program
+-show the result
