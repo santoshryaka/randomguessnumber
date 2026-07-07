@@ -2,7 +2,7 @@
 import random
 
 #Generates a random number
-secret = random.randint(1,1000)
+secret = random.randint(1,100)
 guess = 0
 print("__welcome to the number guessing game__")
 print("guess the number between 1 to 100.")
